@@ -10,7 +10,7 @@ Lever de code in via GitHub Classroom: dit doe je door je lokale code te committ
 
 ## BEOORDELINGSCRITERIA
 
--Je mag geen jQuery gebruiken, alleen native JavaScript. Wanneer er wel jQuery wordt gebruikt dan wordt de opdracht niet nagekeken.
+- Je mag geen jQuery gebruiken, alleen native JavaScript. Wanneer er wel jQuery wordt gebruikt dan wordt de opdracht niet nagekeken.
 - Je applicatie wordt alleen nagekeken op het moment dat die afbeeldingen kan vergelijken en het juiste resultaat in het witte tekstvak toont. Je kunt hiermee maximaal een 6 halen.
 - Je kunt voor de 10 gaan door de opdracht volledig af te maken.
 
